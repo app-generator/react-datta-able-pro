@@ -14,12 +14,12 @@
 
 > Can be used with many API Servers for a complete fullstack experience. ALL servers use an unified API definition  
 
+- [Node JS API Server PRO](https://github.com/app-generator/api-server-nodejs-pro) - **included in this product**
+    - SQLite / TypeORM / Joy / Docker
+    - MongoDB / Mongoose / Joy Docker (separate branch, same project)
 - [Django API Server](https://github.com/app-generator/api-server-django) - open-source product
 - [Flask API Server](https://github.com/app-generator/api-server-flask) - open-source product
 - [Node JS API Server](https://github.com/app-generator/api-server-nodejs) - open-source product / Typescript / SQLite / TypeORM / Joy for validation
-- [Node JS API Server PRO](https://github.com/app-generator/api-server-nodejs-pro) - **commercial product**
-    - SQLite / TypeORM / Joy / Docker
-    - MongoDB / Mongoose / Joy Docker (separate branch, same project)
 
 <br />
 
