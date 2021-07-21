@@ -12,7 +12,7 @@
 
 <br />
 
-> Can be used with many API Servers for a complete fullstack experience. ALL servers use an unified API definition  
+> **Note**: This product can be used with other API Servers for a complete fullstack experience. **ALL API servers use an unified interface**
 
 - [Node JS API Server PRO](https://github.com/app-generator/api-server-nodejs-pro) - **included in this product**
     - SQLite / TypeORM / Joy / Docker
