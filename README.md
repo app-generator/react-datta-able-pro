@@ -1,4 +1,4 @@
-# [React Nodejs Datta Able PRO](https://appseed.us/product/react-node-js-datta-able-pro)
+# [React Node JS Datta PRO](https://appseed.us/product/react-node-js-datta-able-pro)
 
 **Datta Able** is a premium **React Dashboard** that provides a colorful and modern design. Datta Able React PRO is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. The product comes with a simple JWT authentication flow: login/register/logout.
 
