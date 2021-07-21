@@ -103,4 +103,4 @@ The product is also open-source and cis already configured to work with Berry Da
 <br />
 
 ---
-[React Nodejs Datta Able PRO](https://appseed.us/product/react-node-js-datta-able-pro) - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/app-generator)**.
+[React Node JS Datta PRO](https://appseed.us/product/react-node-js-datta-able-pro) - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/app-generator)**.
