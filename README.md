@@ -1,4 +1,4 @@
-# [React Node JS Datta PRO](https://appseed.us/product/react-node-js-datta-able-pro)
+# React Datta Able PRO
 
 **Datta Able** is a premium **React Dashboard** that provides a colorful and modern design. Datta Able React PRO is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. The product comes with a simple JWT authentication flow: login/register/logout.
 
@@ -9,29 +9,15 @@
 - Modern aesthetics UI design - Designed by [CodedThemes](https://codedthemes.com/)
 - React, Redux, Redux-persist
 - Authentication: JWT Login/Register/Logout
+- For a complete full-stack experience, this UI can be used with:
+  - [Django API Server](https://docs.appseed.us/boilerplate-code/api-server/django) - open-source product
+  - [Flask API Server](https://docs.appseed.us/boilerplate-code/api-server/flask) - open-source product
+  - [Node JS API Server](https://docs.appseed.us/boilerplate-code/api-server/node-js) - open-source product / Typescript / SQLite / TypeORM / Joy for validation
+  - [Node JS API Server PRO](https://github.com/app-generator/api-server-nodejs-pro) - **commercial product**
+      - SQLite / TypeORM / Joy / Docker
+      - MongoDB / Mongoose / Joy Docker (separate branch, same project)
 
 <br />
-
-> **Note**: This product can be used with other API Servers for a complete fullstack experience. **ALL API servers use an unified interface**
-
-- [Node JS API Server PRO](https://github.com/app-generator/api-server-nodejs-pro) - **included in this product**
-    - SQLite / TypeORM / Joy / Docker
-    - MongoDB / Mongoose / Joy Docker (separate branch, same project)
-- [Django API Server](https://github.com/app-generator/api-server-django) - open-source product
-- [Flask API Server](https://github.com/app-generator/api-server-flask) - open-source product
-- [Node JS API Server](https://github.com/app-generator/api-server-nodejs) - open-source product / Typescript / SQLite / TypeORM / Joy for validation
-
-<br />
-
-> Links
-
-- [React Nodejs Datta Able PRO](https://appseed.us/product/react-node-js-datta-able-pro) - product page
-- [React Nodejs Datta Able PRO](https://react-node-js-datta-able-pro.appseed-srv1.com) - LIVE Demo
-- [React Nodejs Datta Able PRO](https://docs.appseed.us/products/react/node-js-datta-able-pro) - product documentation
-- [Node JS API](https://github.com/app-generator/api-server-nodejs) - the backend server 
-- Support via **Github** (issues tracker) and [Discord](https://appseed.us/support) - LIVE Assistance 
-
-<br >
 
 ![React Nodejs Datta Able - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/126295682-6e89cdd8-455f-4f44-bb3c-0302d02c34a2.png)
 
@@ -85,32 +71,15 @@ const config = {
 
 <br />
 
-**API Server Descriptor** - POSTMAN Collection
+> **API Descriptor** 
 
-The API Server definition is provided by the [Nodejs API Server](https://github.com/app-generator/api-server-nodejs)
+The product uses implements a **Unified API definition** exposed by all API servers crafted by AppSeed. For more information, please access the official documentation:
 
-- [API POSTMAN Collection](https://github.com/app-generator/api-server-nodejs/blob/master/media/api.postman_collection.json) - can be used to mock (simulate) the backend server or code a new one in your preferred framework. 
+- All [API Servers](https://docs.appseed.us/boilerplate-code/api-server) - the full index
+- [Unified API Definition](https://docs.appseed.us/boilerplate-code/api-server/api-unified-definition) - methods implemented accross all servers
 
-<br />
-
-## Node JS API Server
-
-The product is also open-source and cis already configured to work with Berry Dashboard Template - product features:
-
-- Nodejs / Express server
-- JWT authentication (`passport-jwt` strategy)
-- Persistence: MongoDB 
-
-> Links
-
-- [Node JS API](https://github.com/app-generator/api-server-nodejs) - source code
-- [Node JS API](https://appseed.us/boilerplate-code) - product page
-
-<br />
-
-![Node JS API - Open-source API server built on top of Express Nodejs Framework.](https://user-images.githubusercontent.com/51070104/124934824-c210a700-e00d-11eb-9d01-e05bd8bfb608.png)
 
 <br />
 
 ---
-[React Node JS Datta PRO](https://appseed.us/product/react-node-js-datta-able-pro) - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/app-generator)**.
+React Datta Able PRO - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/app-generator)**.
