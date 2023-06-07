@@ -9,8 +9,8 @@
 
 > 🚀 Features: 
 
-- ✅ Modern aesthetics UI design - Designed by *[Simmmple](https://simmmple.com/)*
-- ✅ Styled with `Chakra Ui`, `Dark-Mode`
+- ✅ Modern aesthetics UI design - Designed by **[CodedThemes](https://codedthemes.com/?ref=appseed)**
+- ✅ `Dark-Mode` Ready
 - ✅ Authentication: JWT Login/Register/Logout
 - ✅ **Full-stack Ready** using a **Node JS API Server** (open-source project) - Server Features
   - `Typescript` / SQLite Persistence / TypeORM / Joy (validation)
