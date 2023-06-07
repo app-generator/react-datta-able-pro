@@ -1,23 +1,20 @@
-# React Datta Able PRO
+# [React Datta PRO](https://appseed.us/product/datta-able-pro/full-stack/react/) `Full-Stack`
 
-**Datta Able** is a premium **React Dashboard** that provides a colorful and modern design. Datta Able React PRO is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. The product comes with a simple JWT authentication flow: login/register/logout.
+**Datta Able** is a premium **React Dashboard** that provides a colorful and modern design. `Datta Able React PRO` is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. The product comes with a simple JWT authentication flow: login/register/logout.
 
-<br />
-
-> Features
-
-- Modern aesthetics UI design - Designed by [CodedThemes](https://codedthemes.com/)
-- React, Redux, Redux-persist
-- Authentication: JWT Login/Register/Logout
-- For a complete full-stack experience, this UI can be used with:
-  - [Django API Server](https://docs.appseed.us/boilerplate-code/api-server/django) - open-source product
-  - [Flask API Server](https://docs.appseed.us/boilerplate-code/api-server/flask) - open-source product
-  - [Node JS API Server](https://docs.appseed.us/boilerplate-code/api-server/node-js) - open-source product / Typescript / SQLite / TypeORM / Joy for validation
-  - [Node JS API Server PRO](https://github.com/app-generator/api-server-nodejs-pro) - **commercial product**
-      - SQLite / TypeORM / Joy / Docker
-      - MongoDB / Mongoose / Joy Docker (separate branch, same project)
+- 👉 [React Datta Able PRO](https://appseed.us/product/datta-able-pro/full-stack/react/) - `Product Page`
+- 👉 [React Datta Able PRO](https://react-datta-pro.onrender.com/) - `LIVE Demo`
 
 <br />
+
+> 🚀 Features: 
+
+- ✅ Modern aesthetics UI design - Designed by *[Simmmple](https://simmmple.com/)*
+- ✅ Styled with `Chakra Ui`, `Dark-Mode`
+- ✅ Authentication: JWT Login/Register/Logout
+- ✅ **Full-stack Ready** using a **Node JS API Server** (open-source project) - Server Features
+  - `Typescript` / SQLite Persistence / TypeORM / Joy (validation)
+  - Passport library - `passport-jwt` strategy.
 
 ![React Nodejs Datta Able - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/126295682-6e89cdd8-455f-4f44-bb3c-0302d02c34a2.png)
 
@@ -25,13 +22,13 @@
 
 ## How to use it
 
-To use the product Node JS (>= 12.x) is required and GIT to clone/download the project from the public repository.
+To use the product NodeJS 16.x is required and GIT to clone/download the project from the public repository.
 
-**Step #1** - Clone the project
+**Step 1** - Download the sources from the official [product page](https://appseed.us/product/datta-able-pro/full-stack/react/) (requires a `purchase`)
 
 ```bash
-$ git clone https://github.com/app-generator/priv-react-datta-able-dashboard-pro.git
-$ cd priv-react-datta-able-dashboard-pro
+$ unzip react-datta-able-pro.zip
+$ cd react-datta-able-pro
 ```
 
 <br >
