@@ -16,6 +16,17 @@
   - `Typescript` / SQLite Persistence / TypeORM / Joy (validation)
   - Passport library - `passport-jwt` strategy.
 
+<br />
+
+> Tested with:
+
+| NodeJS | NPM | YARN | PNPM | 
+| --- | --- | --- | 
+| `v16.15.0` | ✅ | ✅ | ❌ | 
+| `v18.0.0`  | ❌ | ❌ | ❌ |
+
+<br />
+
 ![React Nodejs Datta Able - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/126295682-6e89cdd8-455f-4f44-bb3c-0302d02c34a2.png)
 
 <br />

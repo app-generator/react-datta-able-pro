@@ -1,5 +1,11 @@
 # Change Log
 
+## [17.1.0-enh1] 2023-08-06
+### Changes
+
+- DOCS Update (readme)
+  - Added compatibility matrix
+
 ## [17.1.0] 2023-06-07
 ### Changes
 
